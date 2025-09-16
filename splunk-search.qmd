@@ -1,5 +1,0 @@
----
-title: "Splunk Search"
----
-
-About this site

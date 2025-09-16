@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "splunk-search.html",
+    "href": "splunk-search.html",
+    "title": "Splunk Search",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Splunk - Use Cases"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Splunk - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Splunk\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Splunk Search)\n  A[Learner] --&gt; C(UC: Master Splunk Reporting)\n  A[Learner] --&gt; D(UC: Master Splunk YYY)\n  A[Learner] --&gt; E(UC: Master Splunk ZZZ)  \n  B --&gt; F{Abstract UC: Master Splunk}\n  C --&gt; F{Abstract UC: Master Splunk}\n  D --&gt; F{Abstract UC: Master Splunk}\n  E --&gt; F{Abstract UC: Master Splunk}"
+  }
+]
